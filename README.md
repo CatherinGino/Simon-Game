@@ -3,7 +3,7 @@
 A fun and challenging **memory game** built with HTML, CSS, and JavaScript.  
 Repeat the sequence of colors as it gets longer with each round—how far can you go? 🧠✨
 
-🌐 **Live Demo**: [Play Simon Game](https://catheringino.github.io/Simon-Game/)
+🌐 **Live Demo**: [Play Simon Game](https://catheringino.github.io/SimonGame/)
 
 ---
 
@@ -29,7 +29,7 @@ Repeat the sequence of colors as it gets longer with each round—how far can yo
 ---
 
 ## 🚀 How to Play
-1. Open the [Simon Game](https://catheringino.github.io/Simon-Game/).
+1. Open the [Simon Game](https://catheringino.github.io/SimonGame/).
 2. Press **any key** to start.
 3. Watch the sequence of flashes and sounds.
 4. Repeat the sequence by clicking the buttons in the correct order.
@@ -41,9 +41,9 @@ Repeat the sequence of colors as it gets longer with each round—how far can yo
 If you want to run this project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CatherinGino/Simon-Game.git
+git clone https://github.com/CatherinGino/SimonGame.git
 
 # Open the folder
-cd Simon-Game
+cd SimonGame
 
 # Open index.html in your browser
